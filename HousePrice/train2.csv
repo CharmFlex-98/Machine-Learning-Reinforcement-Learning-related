@@ -1,0 +1,5 @@
+Id,MSSubClass,MSZoning,LotFrontage,LotArea,Street,Alley,LotShape
+1,60,RL,65,8450,Pave,hello,Reg
+2,20,ML,80,9600,Pave,NA,Reg
+3,60,RL,68,11250,Pave,hey,IR1
+4,70,RL,60,9550,Pave,hey,IR1
